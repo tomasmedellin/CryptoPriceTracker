@@ -21,10 +21,8 @@ This application uses the CoinMarketCap API to fetch real-time cryptocurrency da
 2. Clone the repository to your local machine:
 
    \```bash
-   
    git clone https://github.com/tomasmedellin/CryptoPriceTracker.git
    cd CryptoPriceTracker
-   
    \```
 
 4. Inside the `main.rs` file, replace the `api_key` placeholder with your own CoinMarketCap API key.
