@@ -21,13 +21,15 @@ This application uses the CoinMarketCap API to fetch real-time cryptocurrency da
 2. Clone the repository to your local machine:
 
    \```bash
+   
    git clone https://github.com/tomasmedellin/CryptoPriceTracker.git
    cd CryptoPriceTracker
+   
    \```
 
-3. Inside the `main.rs` file, replace the `api_key` placeholder with your own CoinMarketCap API key.
+4. Inside the `main.rs` file, replace the `api_key` placeholder with your own CoinMarketCap API key.
 
-4. Build the project using Cargo (Rust's package manager and build system):
+5. Build the project using Cargo (Rust's package manager and build system):
 
    \```bash
    cargo build --release
