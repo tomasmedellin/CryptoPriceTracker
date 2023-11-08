@@ -29,23 +29,23 @@ This application uses the CoinMarketCap API to fetch real-time cryptocurrency da
 
 5. Build the project using Cargo (Rust's package manager and build system):
 
-   \```bash
+   ```bash
    cargo build --release
-   \```
+   ```
 
 ## How to Run 🏃‍♂️
 
 After building the project, you can run it directly from the target folder:
 
-\```bash
+```bash
 ./target/release/monero_price_tracker
-\```
+```
 
 Or simply use Cargo to run the project:
 
-\```bash
+```bash
 cargo run --release
-\```
+```
 
 ## Structure 🏗️
 
